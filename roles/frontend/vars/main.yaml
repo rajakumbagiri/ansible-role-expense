@@ -1,3 +1,5 @@
-component: frontend
 app_location: /usr/share/nginx/html
+
+component: frontend
+
 BACKEND_API_URL: backend.rajakumbagiri.online

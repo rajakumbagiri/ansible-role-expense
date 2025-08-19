@@ -3,3 +3,4 @@ app_location: /usr/share/nginx/html
 component: frontend
 
 BACKEND_API_URL: backend.rajakumbagiri.online
+mysql_root_password: ExpenseApp@1
